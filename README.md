@@ -12,3 +12,12 @@ This session is basicly for complete beginners.
     1. IDE for PC : https://code.visualstudio.com/
     2. Online HTML Editor : https://onecompiler.com/html
 3. Intro to HTML and Tags
+
+## Day 2
+1. Methods to run the code
+2. Heading 
+3. Elements & Attributes
+4. CSS Methods
+    1. Inline CSS
+    2. Internal CSS
+    3. External CSS
