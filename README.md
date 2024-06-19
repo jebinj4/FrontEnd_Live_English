@@ -3,11 +3,10 @@
 - HTML
 - CSS
 - JS
-
-## This session is basicly for complete beginners
+This session is basicly for complete beginners
 
 ![Build Status](https://img.shields.io/github/workflow/status/username/repository/CI)
-![License](https://img.shields.io/github/license/username/repository)
+![License](https://img.shields.io/github/license/jebinj4/repository)
 
 
 # Day_1
