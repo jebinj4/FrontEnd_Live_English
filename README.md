@@ -4,10 +4,7 @@
 - CSS
 - JS
 <br>
-This session is basicly for complete beginners
-
-
-
+This session is basicly for complete beginners.
 
 ## Day 1
 1. Introduction to Front-End Development
