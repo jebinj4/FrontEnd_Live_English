@@ -3,16 +3,16 @@
 - HTML
 - CSS
 - JS
+<br>
 This session is basicly for complete beginners
 
-![Build Status](https://img.shields.io/github/workflow/status/username/repository/CI)
-![License](https://img.shields.io/github/license/jebinj4/repository)
 
 
-# Day_1
-- Introduction to Front-End Development
-- Software Installation
--- https://code.visualstudio.com/
-- Online HTML Editor
--- https://onecompiler.com/html
-- Intro to HTML and Tags 
+
+## Day 1
+1. Introduction to Front-End Development
+2. Software Installation
+- https://code.visualstudio.com/
+3. Online HTML Editor
+- https://onecompiler.com/html
+4. Intro to HTML and Tags 
